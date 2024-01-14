@@ -3,19 +3,19 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: coders
+title: Osaka High Technology College Robot Club
 # description: This will be meta HTML tag content. This can be ignored.
-description: 大阪ハイテクノロジー専門学校 プログラミング部
+description: Osaka High Technology College Robot Club Programming Group
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/Osaka High Technology Coders"
+baseurl: "coders"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: coders
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Robot Department Programming Group
+typing_text: Osaka High Technology College Robot Club Programming Group
 # email: Your E-Mail address for the email button.
 email: #
 # For every social button you want to display, set your username or userid
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: 大阪ハイテクノロジー専門学校のロボット部プログラミング班の活動紹介です。
+about_me_description: Osaka High Technology College Robot Club Programming Group
 
 # SKILLS SECTION
 # show_skills_card:
@@ -49,7 +49,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: false
+show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
