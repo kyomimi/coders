@@ -17,45 +17,68 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: RobotClubAssignment
+  title-url: https://github.com/team-osaka-hightech/RobotClubAssignment
+  date: Nov 2023 - Nov 2023
+  subtitle: ロボット部プログラミング班の課題置き場（from講師）
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Python
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  - title: Programming_Contest
+  title-url: https://github.com/team-osaka-hightech/Programming_Contest
+  date: Jun 2023
+  subtitle: 2023年 前期プログラミングコンテスト
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
+  timeline-side: left
+
+  - title: 2022年度生
+  title-url: https://team-osaka-hightech.github.io/2022/
+  date: Apr 2022 - May 2025
+  subtitle: 2022年度生
+  tags:
+    - tag: Menbers
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+  - title: 2021年度生
+  title-url: https://team-osaka-hightech.github.io/2021/
+  date: Apr 2021 - May 2024
+  subtitle: 2021年度生
+  tags:
+    - tag: Menbers
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
+  timeline-side: right
+
+  - title: 2020年度生
+  title-url: https://team-osaka-hightech.github.io/2020/
+  date: Apr 2020 - May 2023
+  subtitle: 2020年度生
+  tags:
+    - tag: Menbers
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
+  timeline-side: right
+
+    - title: 2019年度生
+  title-url: https://team-osaka-hightech.github.io/2019/
+  date: Apr 2019 - May 2021
+  subtitle: 2019年度生
+  tags:
+    - tag: Menbers
+    # - tag: Javascript
+    # - tag: Ruby
+    # - tag: Rails
+  timeline-side: right
